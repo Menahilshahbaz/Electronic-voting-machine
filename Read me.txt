@@ -1,0 +1,23 @@
+Project: Electronic Voting Machine (EVM)
+-----------------------------------------------------------------------------
+Simply, you have to run the "main.py" file. 
+Its has a Graphical User Interferance, so will show the Menu.
+The system have following Entities;
+1. Admin
+2. Candidate
+3. Voter
+-----------------------------------------------------------------------------
+Functions dedicated to Admin:
+1. Can view details of Registered Candidates, Voters and complete results.
+2. Can Add new Candidate.
+
+Functions dedicated to Candidate:
+1. Can Change Password 
+2. Can view his Result.
+
+Functions dedicated to Voter:
+1. Can vote for listed Candidtae
+
+-----------------------------------------------------------------------------
+Moreover, Some special fonts are used which are present in Asset folder.
+1. Josefin Sons
