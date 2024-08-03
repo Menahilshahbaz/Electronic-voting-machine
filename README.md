@@ -1,4 +1,5 @@
 # Electronic-Voting-Machine
+EVM are specialized devices used in elections to securely and efficiently capture and count votes. They serve as a modern alternative to traditional paper ballots,aiming to enhance the electoral process.
 
 Simply, you have to run the "main.py" file. <br>
 Its has a Graphical User Interferance, so will show the Menu. <br>
